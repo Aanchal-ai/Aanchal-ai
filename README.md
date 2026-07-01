@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Aspiring+Machine+Learning+Engineer+🤖;B.Tech+CSE+%7C+Government+College+of+Engineering+Nagpur;Data+Science+%7C+Machine+Learning+%7C+AI;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Aspiring+Machine+Learning+Engineer+🤖;B.Tech+CSE+%7C+Government+College+of+Engineering+Nagpur;Data+Science+%7C+Machine+Learning+%7C+AI;Learning+•+Building+•+Growing+🚀" />
 
-<br><br>
+<br>
 
-<img src="https://media.githubusercontent.com/media/rahul-jha98/README-Gifs/master/coding.gif" width="550"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
 
-<br><br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Aanchal-ai&style=for-the-badge&color=blueviolet)
 
