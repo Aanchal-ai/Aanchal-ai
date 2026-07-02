@@ -68,43 +68,207 @@ Mission       : Build intelligent solutions that solve real-world problems.
 </p>
 
 ---
+---
 
-# 📈 Activity Graph
+# 🟩 Contribution Calendar
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanchal-ai&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://ghchart.rshah.org/Aanchal-ai" alt="Aanchal's GitHub Contribution Chart" />
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aanchal-ai&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-# 🌱 Currently Learning
+# 🌱 Learning Progress
 
 ```text
-Machine Learning      █████████░ 90%
-Deep Learning         ███████░░░ 70%
-Generative AI         █████░░░░░ 50%
-DSA                   ████████░░ 80%
-SQL                   ███████░░░ 70%
-MLOps                 ███░░░░░░░ 30%
+Python                    ██████████  Completed ✅
+NumPy                     ██████████  Completed ✅
+Pandas                    ██████████  Completed ✅
+Matplotlib                ██████████  Completed ✅
+Seaborn                   ██████████  Completed ✅
+Git & GitHub              ██████████  Completed ✅
+
+Scikit-Learn              ██████░░░░  Learning
+Machine Learning          █████░░░░░  Learning
+Statistics                ████░░░░░░  Learning
+SQL                       ███░░░░░░░  Learning
+DSA (LeetCode)            ███░░░░░░░  Learning
+Feature Engineering       ██░░░░░░░░  Learning
+Model Evaluation          ██░░░░░░░░  Learning
+Cross Validation          ██░░░░░░░░  Learning
+Hyperparameter Tuning     ██░░░░░░░░  Learning
+
+Deep Learning             ░░░░░░░░░░  Planned
+NLP                       ░░░░░░░░░░  Planned
+Computer Vision           ░░░░░░░░░░  Planned
+MLOps                     ░░░░░░░░░░  Planned
+Docker                    ░░░░░░░░░░  Planned
+Cloud Deployment          ░░░░░░░░░░  Planned
 ```
+
+---
 
 ---
 
 # 📂 Featured Projects
 
-- 🎵 Spotify Music Analysis
-- 🏠 House Prices Data Cleaning
-- 📉 Customer Churn EDA
-- 🎬 Netflix Data Analysis Dashboard
-- ⚖️ Nyay Setu
+> *A collection of data science and machine learning projects built to solve real-world problems.*
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎵 Spotify Music Analysis
+
+<img src="assets/spotify-banner.png" width="100%">
+
+Analyze Spotify datasets to discover insights into popularity, genres, danceability, energy, valence, and audio features.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+<p>
+<a href="https://github.com/Aanchal-ai/Spotify-Music-Analysis">
+<img src="https://img.shields.io/badge/🚀_View_Repository-1DB954?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Employee Attrition Analysis
+
+<img src="assets/employee-banner.png" width="100%">
+
+End-to-end Machine Learning project for predicting employee attrition using data preprocessing, EDA, feature engineering, and classification models.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+
+<p>
+<a href="https://github.com/Aanchal-ai/Employee-Attrition-Analysis">
+<img src="https://img.shields.io/badge/🚀_View_Repository-7B61FF?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏠 House Prices Prediction
+
+<img src="assets/house-banner.png" width="100%">
+
+Regression project to predict house prices using feature engineering and machine learning algorithms.
+
+**Tech Stack**
+
+`Python`
+`Pandas`
+`NumPy`
+`Scikit-Learn`
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_View_Repository-0A84FF?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📉 Customer Churn Analysis
+
+<img src="assets/churn-banner.png" width="100%">
+
+Analyze customer behavior to identify churn patterns and improve business decision-making using EDA and ML.
+
+**Tech Stack**
+
+`Python`
+`Pandas`
+`Seaborn`
+`Scikit-Learn`
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_View_Repository-FF6B6B?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎬 Netflix Data Analysis Dashboard
+
+<img src="assets/netflix-banner.png" width="100%">
+
+Interactive dashboard exploring Netflix movies, TV shows, genres, release years, and ratings.
+
+**Tech Stack**
+
+`Python`
+`Pandas`
+`Plotly`
+`Streamlit`
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_View_Repository-E50914?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚖️ Nyay Setu
+
+<img src="assets/nyay-banner.png" width="100%">
+
+Hackathon project focused on building a technology-driven solution to improve legal accessibility and civic support.
+
+**Tech Stack**
+
+`Python`
+`Machine Learning`
+`Streamlit`
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_View_Repository-F4B400?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+---
+
+> 💡 **"Every project is another step towards becoming a better AI/ML Engineer."**
+
 
 ---
 
