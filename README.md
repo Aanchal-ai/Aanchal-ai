@@ -142,6 +142,30 @@ Analyze Spotify datasets to discover insights into popularity, genres, danceabil
 
 <td width="50%" valign="top">
 
+## 📈 Amazon Sales Analysis
+
+<img src="assets/amazon-banner.png" width="100%">
+
+Comprehensive Exploratory Data Analysis on Amazon sales data to uncover revenue trends, top-performing products, customer behavior, regional performance, and business insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
+
+<p>
+<a href="https://github.com/Aanchal-ai/Amazon-Sales-Analysis">
+<img src="https://img.shields.io/badge/🚀_View_Repository-FF9900?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 📊 Employee Attrition Analysis
 
 <img src="assets/employee-banner.png" width="100%">
