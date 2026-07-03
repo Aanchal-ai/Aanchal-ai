@@ -53,7 +53,10 @@ Mission       : Build intelligent solutions that solve real-world problems.
 <p>
 <img src="https://skillicons.dev/icons?i=jupyter"/>
 </p>
-
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,pycharm"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=colab"/>
+</p>
 ---
 
 # 📊 GitHub Stats
