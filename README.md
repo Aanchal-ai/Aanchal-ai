@@ -187,6 +187,26 @@ End-to-end Machine Learning project for predicting employee attrition using data
 
 </td>
 
+<td width="50%" valign="top">
+
+## 🧪 A/B Testing & Hypothesis Testing
+
+<img src="assets/abtesting-banner.png" width="100%">
+
+Statistical analysis project focused on A/B Testing, confidence intervals, hypothesis testing, p-values, t-tests, z-tests, and data-driven decision making.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `SciPy` `Matplotlib` `Statistics`
+
+<p>
+<a href="https://github.com/Aanchal-ai/AB-Testing-Hypothesis-Testing">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
 </tr>
 
 <tr>
@@ -208,7 +228,7 @@ Regression project to predict house prices using feature engineering and machine
 
 <p>
 <a href="#">
-<img src="https://img.shields.io/badge/🚀_View_Repository-0A84FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚧_In_Progress-0A84FF?style=for-the-badge">
 </a>
 </p>
 
@@ -231,7 +251,7 @@ Analyze customer behavior to identify churn patterns and improve business decisi
 
 <p>
 <a href="#">
-<img src="https://img.shields.io/badge/🚀_View_Repository-FF6B6B?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚧_In_Progress-FF6B6B?style=for-the-badge">
 </a>
 </p>
 
@@ -258,7 +278,7 @@ Interactive dashboard exploring Netflix movies, TV shows, genres, release years,
 
 <p>
 <a href="#">
-<img src="https://img.shields.io/badge/🚀_View_Repository-E50914?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚧_In_Progress-E50914?style=for-the-badge">
 </a>
 </p>
 
@@ -292,11 +312,7 @@ Hackathon project focused on building a technology-driven solution to improve le
 
 ---
 
----
-
 > 💡 **"Every project is another step towards becoming a better AI/ML Engineer."**
-
-
 ---
 
 # 🌐 Connect with Me
