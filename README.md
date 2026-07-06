@@ -120,6 +120,25 @@ Cloud Deployment          ░░░░░░░░░░  Planned
 > *A collection of data science and machine learning projects built to solve real-world problems.*
 
 <table>
+<td width="50%" valign="top">
+
+## 📊 StatInsight - Automated Statistical Data Analysis Toolkit
+
+<img src="assets/statinsight-banner.png" width="100%">
+
+An interactive Streamlit application that automates statistical data analysis for any CSV dataset. It provides descriptive statistics, distribution analysis, QQ plots, normality testing, data transformations, confidence intervals, hypothesis testing, and statistical visualizations through an intuitive dashboard.
+
+**Tech Stack**
+
+`Python` `Streamlit` `Pandas` `NumPy` `SciPy` `Statsmodels` `Matplotlib` `Seaborn`
+
+<p>
+<a href="https://github.com/Aanchal-ai/StatInsight">
+<img src="https://img.shields.io/badge/🚀_View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
 
 <tr>
 
